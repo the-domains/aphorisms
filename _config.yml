@@ -1,0 +1,28 @@
+name: Aphorisms
+favicon: null
+layout_spectrum: 0.01275836187414825
+typography_spectrum: 0.09899255307391286
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7338970196433365
+  lightness: 0.3396046939305961
+  saturation: 0.7082861948292702
+  rhythmicContrast: 0.5402679783292115
+purpose: []

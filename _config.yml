@@ -1,7 +1,8 @@
 name: Aphorisms
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.09899255307391286
+layout_spectrum: 0.50084
+typography_spectrum: 0.5748
+title: Blog for designing our new home
 cta:
   domain: null
   bucket: null
